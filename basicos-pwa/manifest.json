@@ -1,0 +1,39 @@
+{
+    "name":"Progresive Web App Demo",
+    "short_name":"PWA Demo",
+    "description":"Demo de aplicación web progresiva.",
+    "background_color":"#F7DF1E",
+    "theme_color":"#000",
+    "orientation":"portrait",
+    "display":"standalone", 
+    "start_url":"./?tum=homescreen",
+    "scope":"./",
+    "lang":"es-MX",
+    "icons":[
+        {            
+            "src":"./img/ico1.ico",
+            "sizes":"32x32",
+            "type":"image/ico"
+        },
+        {
+            "src":"./img/ico2.ico",
+            "sizes":"48x48",
+            "type":"image/ico"            
+        },
+        {
+            "src":"./img/ico3.ico",
+            "sizes":"64x64",
+            "type":"image/ico"            
+        },
+        {
+            "src":"./img/ico4.ico",
+            "sizes":"72x72",
+            "type":"image/ico"            
+        },
+        {
+            "src":"./img/ico5.ico",
+            "sizes":"92x92",
+            "type":"image/ico"
+        }
+    ]
+}
